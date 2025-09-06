@@ -117,6 +117,8 @@ flowchart TD
 **Saugat Giri**
 [NextWork Student](https://community.nextwork.org/c/i-have-a-question?automatic_login=true)
 
+[Project Completion Link](https://docs.google.com/viewer?url=https://learn.nextwork.org/optimistic_turquoise_brave_clove/projects/ai-rag-bedrock/document.pdf)
+
 ---
 
 ## 🔗 Resources
